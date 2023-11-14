@@ -1,4 +1,4 @@
-### Hi there 👋
+### Joshua Garvey
 
 🔭 I’m currently working on a general contracting service website. [Blackline Contracting](https://blackline.joshuagarvey.com/)
 
