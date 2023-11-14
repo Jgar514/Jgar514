@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a general contracting service website.
-[Blackline Contracting](https://blackline.joshuagarvey.com/)
+🔭 I’m currently working on a general contracting service website. [Blackline Contracting](https://blackline.joshuagarvey.com/)
+
+<img src="/images/md.svg" alt="Alt text" width="100" height="100">
 
 <!--
 **Jgar514/Jgar514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
