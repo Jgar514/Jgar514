@@ -5,7 +5,7 @@
 
 | <h1> Joshua Garvey</h1> **<img src="/images/md.svg" alt="Profile Image" width="200">**                                          | **<img src="/images/md.svg" alt="Profile Image" width="200">** <br> <p>test idk</p>       |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 🔭 I’m currently working on a general contracting service website. [Blackline Contracting](https://blackline.joshuagarvey.com/) | <img src="/images/other-image.svg" alt="Alt text" width="300"> |
+| 🔭  [Blackline Contracting](https://blackline.joshuagarvey.com/) | <img src="/images/other-image.svg" alt="Alt text" width="300"> |
 |                                                                                                           |
 | 🌱 I’m currently learning...                                                                                                    | - Topic 1 <br> - Topic 2                                       |
 | 👯 I’m looking to collaborate on...                                                                                             | - Project 1 <br> - Project 2                                   |
