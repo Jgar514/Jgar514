@@ -4,7 +4,7 @@
   
 </div>
 <div align="left">
-   <img src="/images/md.svg" alt="Alt text" width="200" height="full" align="right">
+   <img src="/images/md.svg" alt="Alt text" width="200" height="full" >
   
 </div>
 
