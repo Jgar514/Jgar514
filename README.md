@@ -8,3 +8,13 @@
 - [Blackline Contracting](https://blackline.joshuagarvey.com/)
 - [Another Title Link](https://anotherexample.com) [![Another Image Alt Text](https://anotherexample.com/image.jpg)](https://anotherexample.com)
 <font color="red">This text is red!</font>
+]]| no borders 
+
+| no b  |
+|--|--|
+|  |  |
+
+
+| no borders | no b  |
+|--|--|
+|  |  |
