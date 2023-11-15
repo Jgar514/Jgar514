@@ -2,7 +2,8 @@
 
 | **<img src="/images/md.svg" alt="Profile Image" width="200">**  | <h1> Joshua Garvey</h1> <br> <p>Annapolis, MD</p>              | **Column 3**         |
 | --------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- |
-| 🔭 [Blackline Contracting](https://blackline.joshuagarvey.com/) | <img src="/images/other-image.svg" alt="Alt text" width="300"> | Content 3            |
+|
+ 🔭 [Blackline Contracting](https://blackline.joshuagarvey.com/) | <img src="/images/other-image.svg" alt="Alt text" width="300"> | Content 3            |
 |                                                                 |                                                                | More Content 3       |
 | 🌱 I’m currently learning...                                    | - Topic 1 <br> - Topic 2                                       | Additional Content 3 |
 | 👯 I’m looking to collaborate on...                             | - Project 1 <br> - Project 2                                   | Extra Content 3      |
