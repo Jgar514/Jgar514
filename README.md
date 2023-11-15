@@ -2,7 +2,7 @@
 <h1> Joshua Garvey</h1> **<img src="/images/md.svg" alt="Profile Image" width="200">**                                              
 </div>
 <div align="left" width="600">
-<h1> Joshua Garvey</h1>
+<h1> Joshua Garvey</h1><br>
 |  **<img src="/images/md.svg" alt="Profile Image" width="200">** | **<img src="/images/md.svg" alt="Profile Image" width="200">** <br> <p>test idk</p> |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 🔭 [Blackline Contracting](https://blackline.joshuagarvey.com/)                        | <img src="/images/other-image.svg" alt="Alt text" width="300">                      |
