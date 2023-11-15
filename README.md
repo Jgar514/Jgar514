@@ -1,8 +1,9 @@
 <div align="center">
 <div align="center" width="full">
 
-| **<img src="/images/md.svg" alt="Profile Image" width="200">** | <h1> Joshua Garvey</h1> <br> <p>Annapolis, MD</p> | **Column 3** |
-| -------------------------------------------------------------- | ------------------------------------------------- | ------------ |
+| **<img src="/images/md.svg" alt="Profile Image" width="200">** | <h1> Joshua Garvey</h1> <br> <p>Annapolis, MD</p> | **Column 3**                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                |                                                   | <a href="https://twitter.com/joshuagarvey"><img src="https://image-url-for-twitter-icon" alt="Twitter Icon" width="30"></a> <br> <a href="https://linkedin.com/in/joshuagarvey"><img src="https://image-url-for-linkedin-icon" alt="LinkedIn Icon" width="30"></a> |
 
 </div>
 
