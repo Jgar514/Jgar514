@@ -7,6 +7,12 @@
 </div>
 <div align="center" width="full">
 
+| **<img src="/images/md.svg" alt="Profile Image" width="200">** | <h1> Joshua Garvey</h1> <br> <p>Annapolis, MD</p> | **Column 3** |
+| -------------------------------------------------------------- | ------------------------------------------------- | ------------ |
+
+</div>
+<div align="center" width="full">
+
 | 🔭 [Blackline Contracting](https://blackline.joshuagarvey.com/) | <img src="/images/other-image.svg" alt="Alt text" width="300"> |
 | --------------------------------------------------------------- | -------------------------------------------------------------- |
 |                                                                 |                                                                |
