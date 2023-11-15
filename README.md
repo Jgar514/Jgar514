@@ -1,6 +1,3 @@
-<div align"center">
-<h1> Joshua Garvey</h1> **<img src="/images/md.svg" alt="Profile Image" width="200">**                                              
-</div>
 <div align="left" width="full">
 
 | **<img src="/images/md.svg" alt="Profile Image" width="200">**  | <h1> Joshua Garvey</h1> <br> <p>Annapolis, MD</p>              |
