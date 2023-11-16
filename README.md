@@ -11,7 +11,7 @@
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-    <img src="https://i.imgur.com/Rt3bkK6.png" alt="Image 2" width="90%" style="margin-right: 10px;"> <!-- Adjust the width and margin as needed -->
+    <img src="blob:https://imgur.com/0c67ed67-6dec-4435-80d4-61c03c892feb" alt="Image 2" width="90%" style="margin-right: 10px;"> <!-- Adjust the width and margin as needed -->
     <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> <!-- Adjust the width as needed -->
   </div>
 </div>
