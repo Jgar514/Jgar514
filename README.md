@@ -5,35 +5,14 @@
 
 </div>
 
-- [Blackline Contracting](https://blackline.joshuagarvey.com/)
-- [Another Title Link](https://anotherexample.com) [![Another Image Alt Text](https://anotherexample.com/image.jpg)](https://anotherexample.com)
-<font color="red">This text is red!</font>
-]]| no borders 
-
-| no b  |
-|--|--|
-|  |  |
 
 
-| no borders | no b  |
-|--|--|
-|  |  |
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/VwTxl8C.png" alt="Blackline Contracting" width="100" style="margin-right: 20px;" />
-  <div>
-    <h2>Blackline Contracting</h2>
-    <p>
-      A mobile responsive business website for a general contracting company. Service site with custom reusable UI components using Vite, React, and Tailwind CSS.
-    </p>
-    <p><em>Author: Joshua Garvey</em></p>
-  </div>
+
+
   
-</div>
-<img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
-<a href="https://blackline.joshuagarvey.com/">
-  <img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
-</a>
+
+Currently Working On...
 
 <div>
   <a href="https://blackline.joshuagarvey.com/">
