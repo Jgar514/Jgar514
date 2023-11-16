@@ -30,7 +30,7 @@
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
   <a href="https://ui.joshuagarvey.com/">
-    <img src="https://i.imgur.com/TLtDi27.png" alt="Image 2" width="90%" style="margin-right: 10px;"> </a><!-- Adjust the width and margin as needed -->
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> <!-- Adjust the width as needed -->
+    <img src="https://i.imgur.com/TLtDi27.png" alt="Image 2" width="90%" style="margin-right: 10px;"> </a><!-- Adjust the width and margin as needed --> <a href="https://github.com/Jgar514/mobileUI_subdomain_netlify#readme/">
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> </a>
   </div>
 </div>
