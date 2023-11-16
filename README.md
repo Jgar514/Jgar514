@@ -11,8 +11,12 @@
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-    <img src="https://i.imgur.com/4vIR4RL.png" alt="Image 2" width="90%" style="margin-right: 10px;"> <!-- Adjust the width and margin as needed -->
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> <!-- Adjust the width as needed -->
+  <a href="https://blackline.joshuagarvey.com/">
+    <img src="https://i.imgur.com/4vIR4RL.png" alt="Image 2" width="90%" style="margin-right: 10px;"> 
+    </a>
+    <a>
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> 
+    </a>
   </div>
 </div>
 
@@ -20,8 +24,8 @@
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-    <img src="https://i.imgur.com/euEDKsN.png" alt="Image 2" width="90%" style="margin-right: 10px;"> <!-- Adjust the width and margin as needed -->
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> <!-- Adjust the width as needed -->
+    <img src="https://i.imgur.com/euEDKsN.png" alt="Image 2" width="90%" style="margin-right: 10px;"> 
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> 
   </div>
 </div>
 
