@@ -5,8 +5,22 @@
 
 </div>
 
-## Heading 
-![enter image description here](https://i.imgur.com/Rt3bkK6.png)
+## Heading 1
 
-## Heading
-![enter image description here](https://i.imgur.com/Rt3bkK6.png)
+<div align="center">
+  <div style="display: flex; align-items: center;">
+    <img src="https://i.imgur.com/Rt3bkK6.png" alt="Image 1" width="80%"> <!-- Adjust the width as needed -->
+    <img src="https://example.com/icon1.png" alt="Icon 1" width="50"> <!-- Adjust the width as needed -->
+  </div>
+</div>
+
+## Heading 2
+
+<div align="center">
+  <div style="display: flex; align-items: center;">
+    <img src="https://i.imgur.com/Rt3bkK6.png" alt="Image 2" width="80%"> <!-- Adjust the width as needed -->
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="50"> <!-- Adjust the width as needed -->
+  </div>
+</div>
+
+
