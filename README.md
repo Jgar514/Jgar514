@@ -31,3 +31,17 @@
   
 </div>
 <img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
+<a href="https://blackline.joshuagarvey.com/">
+  <img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
+</a>
+
+<div>
+  <a href="https://blackline.joshuagarvey.com/">
+    <img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img align="right" width="20" height="20" src="https://image-url-for-github-icon.png" alt="GitHub">
+  </a>
+</div>
+
+
