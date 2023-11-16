@@ -18,3 +18,14 @@
 | no borders | no b  |
 |--|--|
 |  |  |
+
+<div style="display: flex; align-items: center;">
+  <img src="https://i.imgur.com/VwTxl8C.png" alt="Blackline Contracting" width="100" style="margin-right: 20px;" />
+  <div>
+    <h2>Blackline Contracting</h2>
+    <p>
+      A mobile responsive business website for a general contracting company. Service site with custom reusable UI components using Vite, React, and Tailwind CSS.
+    </p>
+    <p><em>Author: Joshua Garvey</em></p>
+  </div>
+</div>
