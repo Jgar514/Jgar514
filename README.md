@@ -40,7 +40,7 @@
     <img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
   </a>
   <a href="https://github.com/YourGitHubUsername">
-    <img align="right" width="20" height="20" src="https://image-url-for-github-icon.png" alt="GitHub">
+    <img align="right" width="20" height="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub">
   </a>
 </div>
 
