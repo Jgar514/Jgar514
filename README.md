@@ -25,7 +25,7 @@
 
 ## Heading 3
 
-<div align="left">
+<div align="center">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
     <img src="https://i.imgur.com/Rt3bkK6.png" alt="Image 2" width="90%" style="margin-right: 10px;"> <!-- Adjust the width and margin as needed -->
     <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="50"> <!-- Adjust the width as needed -->
