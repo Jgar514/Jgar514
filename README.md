@@ -28,4 +28,6 @@
     </p>
     <p><em>Author: Joshua Garvey</em></p>
   </div>
+  
 </div>
+<img align="left" width="80%" src="https://i.imgur.com/Rt3bkK6.png" alt="Blackline Contracting">
