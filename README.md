@@ -12,10 +12,10 @@
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
   <a href="https://blackline.joshuagarvey.com/">
-    <img src="https://i.imgur.com/4vIR4RL.png" alt="Image 2" width="90%" style="margin-right: 10px;"> 
+    <img src="https://i.imgur.com/4vIR4RL.png" alt="Blackline Contracting" width="90%" style="margin-right: 10px;"> 
     </a>
-    <a>
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> 
+    <a href="https://github.com/Jgar514/blacklinecontracting.com/tree/beta">
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="Github Repo" width="6%"> 
     </a>
   </div>
 </div>
@@ -24,8 +24,12 @@
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-    <img src="https://i.imgur.com/euEDKsN.png" alt="Image 2" width="90%" style="margin-right: 10px;"> 
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> 
+  <a href="https://joshuagarvey.com/" target="_blank">
+    <img src="https://i.imgur.com/euEDKsN.png" alt="Joshua Garvey 3D" width="90%" style="margin-right: 10px;"> 
+    </a>
+    <a href="https://github.com/Jgar514/JoshandEllie#readme" target="_blank">
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="github repo" width="6%">
+    </a> 
   </div>
 </div>
 
@@ -33,8 +37,8 @@
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-  <a href="https://ui.joshuagarvey.com/">
-    <img src="https://i.imgur.com/TLtDi27.png" alt="Image 2" width="90%" style="margin-right: 10px;"> </a><!-- Adjust the width and margin as needed --> <a href="https://github.com/Jgar514/mobileUI_subdomain_netlify#readme/">
-    <img src="https://i.imgur.com/J6LeoUb.png" alt="Icon 2" width="6%"> </a>
+  <a href="https://ui.joshuagarvey.com/" target="_blank">
+    <img src="https://i.imgur.com/TLtDi27.png" alt="custom mobile interface" width="90%" style="margin-right: 10px;"> </a><!-- Adjust the width and margin as needed --> <a href="https://github.com/Jgar514/mobileUI_subdomain_netlify#readme/" target="_blank">
+    <img src="https://i.imgur.com/J6LeoUb.png" alt="github repo" width="6%"> </a>
   </div>
 </div>
