@@ -8,6 +8,16 @@
 ## Website
 [joshuagarvey.com](https://joshuagarvey.com/)
 
+## About
+Josh Gavey - a fullstack developer from Annapolis, MD
+
+## My first npm package
+** [Webslinger](https://www.npmjs.com/package/webslinger) **
+To Install:
+```
+npm install -g webslinger
+```
+
 ## My projects
 
 ### Currently working on..
