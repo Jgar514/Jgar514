@@ -24,8 +24,8 @@ npm install -g webslinger
 
 <div align="left">
   <div style="display: flex; align-items: left; justify-content: between; text-align: center;">
-  <a rel="noopener noreferrer" href="https://blackline.joshuagarvey.com/">
-    <img src="https://i.imgur.com/4vIR4RL.png" alt="Blackline Contracting" width="90%" style="margin-right: 10px;"> 
+  <a rel="noopener noreferrer" href="https://www.capestclaire3d.com/">
+    <img src="https://i.imgur.com/EIzPRFq.png" alt="CSC App" width="50%" style="margin-right: 10px;"> 
     </a>
     <a rel="noopener noreferrer" href="https://github.com/Jgar514/blacklinecontracting.com/tree/beta">
     <img src="https://i.imgur.com/J6LeoUb.png" alt="Github Repo" width="6%"> 
