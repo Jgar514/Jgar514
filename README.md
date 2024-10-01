@@ -11,6 +11,9 @@
 ## About
 Josh Gavey - a fullstack developer from Annapolis, MD
 
+## Resume
+[RESUME.md](https://github.com/Jgar514/RESUME/blob/main/README.md)
+
 ## My first npm package
 ** [Webslinger](https://www.npmjs.com/package/webslinger) **
 To Install:
