@@ -9,17 +9,18 @@
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <a href="https://joshuagarvey.com/" target="_blank">
-    <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="500">
+    <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="500" style="display: block;">
   </a>
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <a href="https://joshuagarvey.com/" target="_blank">
-      <img src="images/JoshandEllie2.png" alt="Cape St. Claire" width="200">
+      <img src="images/JoshandEllie2.png" alt="Cape St. Claire" width="200" style="display: block;">
     </a>
     <a href="https://joshuagarvey.com/" target="_blank">
-      <img src="images/JoshandEllie3.png" alt="Cape St. Claire" width="200">
+      <img src="images/JoshandEllie3.png" alt="Cape St. Claire" width="200" style="display: block;">
     </a>
   </div>
 </div>
+
 
 
 
