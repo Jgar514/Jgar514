@@ -44,8 +44,8 @@ Josh Gavey - a fullstack developer from Annapolis, MD
 - Used **React, Tailwind CSS, and JavaScript** for dynamic, conditionally rendered lists.
 
 ### Homie.Mobi (March 2024 - May 2024)
-<a href="https://all.joshuagarvey.com/" target="_blank">
-<img src="images/min.png" alt="minamilist portfolio" width="400">  
+<a href="https://homie.mobi/" target="_blank">
+<img src="images/homie.png" alt="minamilist portfolio" width="400">  
 </a> 
 
 - [Live Site](https://homie.mobi/) | [Code Repository](https://github.com/Jgar514/Homie.Mobi)  
@@ -53,7 +53,9 @@ Josh Gavey - a fullstack developer from Annapolis, MD
 - Built a domain search tool with real-time API checks and Stripe payment integration.
 
 ### William Montgomery Stand-up Comedy Website (February 2024)
-<img src="path/to/william_montgomery.png" alt="William Montgomery" width="400">  
+<a href="https://thewilliammontgomery.show/" target="_blank">
+<img src="images/williammontgomery.png" alt="minamilist portfolio" width="400">  
+</a> 
 
 - [Live Site](https://thewilliammontgomery.show/) | [Code Repository](https://github.com/Jgar514/WilliamMontgomery)  
 - Displayed a GLTF file in the browser to better market the comedian William Montgomery's brand.
@@ -77,7 +79,9 @@ Josh Gavey - a fullstack developer from Annapolis, MD
 - Used JavaScript to dynamically display services from structured data.
 
 ### SPA Subdomain for Projects (September 2023)
-<img src="path/to/spa_projects.png" alt="SPA Projects" width="400">  
+<a href="https://projects.joshuagarvey.com/" target="_blank">
+<img src="images/projects.png" alt="minamilist portfolio" width="400">  
+</a> 
 
 - [Live Site](https://projects.joshuagarvey.com/) | [Code Repository](https://github.com/Jgar514/subdomain_projects)  
 - Built a **React Single Page Application (SPA)** with a **contact form**, portfolio of **coding projects**, and a **light/dark mode toggle** using React and Tailwind CSS.
