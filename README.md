@@ -5,17 +5,15 @@
 
 </div>
 
-## Website
-[joshuagarvey.com](https://joshuagarvey.com/)
-
-## About
-Josh Gavey - a fullstack developer from Annapolis, MD
-
-## Resume
-[RESUME.md](https://github.com/Jgar514/RESUME/blob/main/README.md)
+## My Website
+### [JoshuaGarvey.com](https://joshuagarvey.com/)
+<a href="https://joshuagarvey.com/" target="_blank">
+<img src="images/JoshandEllie.png" alt="Cape St. Claire" width="400">  
+</a>
 
 
-## My Projects
+
+## Projects - Reverse Chronological
 
 ### Cape St. Claire Web Application (July 2024 - September 2024)
 <a href="https://www.capestclaire3d.com/" target="_blank">
@@ -63,7 +61,6 @@ Josh Gavey - a fullstack developer from Annapolis, MD
 - Integrated social media icons to **centralize brand engagement**.
 
 ### Full Stack MERN Application (January 2024 - February 2024)
-<img src="path/to/mern_app.png" alt="MERN App" width="400"> 
 
 - [Code Repository](https://github.com/Jgar514/mern-azure)  
 - Implemented authentication and password hashing using MongoDB, Express, React, and Node.js.
@@ -120,6 +117,6 @@ Josh Gavey - a fullstack developer from Annapolis, MD
 - Used Mendix to implement **widgets for displaying information** and **API integration**, such as **Google Maps**.
 
 ### Created First GitHub Repository (December 2022)
-<img src="path/to/github.png" alt="GitHub" width="400">  
-- **[GitHub Profile](https://github.com/Jgar514)**  
-- **"Hello World"**  
+
+- **"Hello World"** 
+   
