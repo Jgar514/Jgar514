@@ -11,9 +11,15 @@
   <a href="https://joshuagarvey.com/" target="_blank">
     <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="600">
   </a>
+  <div>
   <a href="https://joshuagarvey.com/" target="_blank">
-    <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="200">
+    <img src="images/JoshandEllie2.png" alt="Cape St. Claire" width="200">
   </a>
+   <a href="https://joshuagarvey.com/" target="_blank">
+    <img src="images/JoshandEllie3.png" alt="Cape St. Claire" width="200">
+  </a>
+  </div>
+
 </div>
 
 
