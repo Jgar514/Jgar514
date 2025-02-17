@@ -66,7 +66,7 @@
 <a href="https://thewilliammontgomery.show/" target="_blank">
 <img src="images/williammontgomery.png" alt="minamilist portfolio" width="400">  
 </a> 
----
+
 - [Live Site](https://thewilliammontgomery.show/) | [Code Repository](https://github.com/Jgar514/WilliamMontgomery)  
 - Displayed a GLTF file in the browser to better market the comedian William Montgomery's brand.
 - Successfully marketed the project, achieving **20,000 impressions** on posts showcasing the **3D stand-up scene**.
