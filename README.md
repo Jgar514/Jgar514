@@ -19,7 +19,7 @@
       <img src="images/JoshandEllie3.png" alt="Cape St. Claire" width="200">
     </a>
   </div>
-</div
+</div>
 
 
 
