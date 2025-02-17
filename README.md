@@ -11,7 +11,7 @@
   <a href="https://joshuagarvey.com/" target="_blank">
     <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="600">
   </a>
-  <div style="display: flex-col; gap: 10px;"
+  <div style="display: flex-col; gap: 10px;">
   <a href="https://joshuagarvey.com/" target="_blank">
     <img src="images/JoshandEllie2.png" alt="Cape St. Claire" width="200">
   </a>
