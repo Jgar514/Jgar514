@@ -5,8 +5,9 @@
 
 </div>
 
-## My Website
 
+## My Website
+### [JoshuaGarvey.com](https://joshuagarvey.com/)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <a href="https://joshuagarvey.com/" target="_blank">
     <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="500" style="display: block;">
