@@ -6,10 +6,15 @@
 </div>
 
 ## My Website
-### [JoshuaGarvey.com](https://joshuagarvey.com/)
-<a href="https://joshuagarvey.com/" target="_blank">
-<img src="images/JoshandEllie.png" alt="Cape St. Claire" width="400">  
-</a>
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://joshuagarvey.com/" target="_blank">
+    <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="800">
+  </a>
+  <a href="https://joshuagarvey.com/" target="_blank">
+    <img src="images/JoshandEllie.png" alt="Cape St. Claire" width="400">
+  </a>
+</div>
 
 
 
